@@ -10877,13 +10877,29 @@ PrefabInstance:
       value: -11.8066
       objectReference: {fileID: 0}
     - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: m_Positions.Array.data[1].x
+      value: -0.112290315
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Positions.Array.data[1].y
-      value: 20.5
+      value: 3.2215228
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: m_Positions.Array.data[1].z
+      value: -11.80059
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[1].value
+      value: 0.008472383
       objectReference: {fileID: 0}
     - target: {fileID: 4402171606032890968, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Name
       value: UILine
       objectReference: {fileID: 0}
+    - target: {fileID: 5151639310139534435, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: ExtraTarget
+      value: 
+      objectReference: {fileID: 1635351896}
     - target: {fileID: 5151639310139534435, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: zDistModifier
       value: 0.05
@@ -14540,16 +14556,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Positions.Array.data[1].x
-      value: 7.7
+      value: 0.19961694
       objectReference: {fileID: 0}
     - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Positions.Array.data[1].y
-      value: 5.93
+      value: 2.9535086
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: m_Positions.Array.data[1].z
+      value: -11.6839285
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[1].value
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4402171606032890968, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Name
       value: UILine
       objectReference: {fileID: 0}
+    - target: {fileID: 5151639310139534435, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: ExtraTarget
+      value: 
+      objectReference: {fileID: 1675149619}
     - target: {fileID: 5151639310139534435, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: zDistModifier
       value: 0.05
@@ -50241,16 +50269,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Positions.Array.data[1].x
-      value: -10.08
+      value: -0.28654447
       objectReference: {fileID: 0}
     - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Positions.Array.data[1].y
-      value: 5.93
+      value: 2.988393
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: m_Positions.Array.data[1].z
+      value: -11.699113
+      objectReference: {fileID: 0}
+    - target: {fileID: 3070755254143480358, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[1].value
+      value: 0.008472383
       objectReference: {fileID: 0}
     - target: {fileID: 4402171606032890968, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: m_Name
       value: UILine
       objectReference: {fileID: 0}
+    - target: {fileID: 5151639310139534435, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
+      propertyPath: ExtraTarget
+      value: 
+      objectReference: {fileID: 823387557}
     - target: {fileID: 5151639310139534435, guid: 33ce96db63851354fa4a02265390ea60, type: 3}
       propertyPath: zDistModifier
       value: 0.05

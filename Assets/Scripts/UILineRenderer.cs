@@ -7,6 +7,7 @@ public class UILineRenderer : MonoBehaviour
 {
     public LineRenderer lineRenderer;
     public RectTransform rectTransform; // used component
+    public RectTransform ExtraTarget;
     public float zDistModifier = 0.05f; // used for z distance modifier
     
     private int _positionCount = 0;
@@ -63,6 +64,10 @@ public class UILineRenderer : MonoBehaviour
     public void UpdateLineRenderer()
     {
         lineRenderer.SetPosition(0, RectTransformToWorldPosition(rectTransform));
+        if (ExtraTarget)
+        {
+            lineRenderer.SetPosition(lineRenderer.positionCount - 1, RectTransformToWorldPosition(ExtraTarget));
+        }
     }
     
     public Vector3 RectTransformToWorldPosition(RectTransform rectTransform)

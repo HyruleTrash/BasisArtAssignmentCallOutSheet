@@ -51,6 +51,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lineRenderer: {fileID: 3070755254143480358}
   rectTransform: {fileID: 5229298277372385829}
+  ExtraTarget: {fileID: 0}
   zDistModifier: 0.1
 --- !u!120 &3070755254143480358
 LineRenderer:
